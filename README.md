@@ -2,4 +2,4 @@
 Fundamental Data Analysis and Visualization Tools in Python
 
 
-Learn how to analyze and visualize data by using Python libraries such as Plotly, Seaborn, Matplotlib, Pandas, and NumPy
+the essential skills for data analysis and visualization in Python through the utilization of powerful libraries like Plotly, Seaborn, Matplotlib, Pandas, and NumPy.
